@@ -1,4 +1,4 @@
-# Figma Layer to YAML Converter Plugin 🛠️
+# Figma Layer to YAML Converter Plugin 🚀
 
 ## はじめに
 Figmaのデザイン（レイヤー構造）を解析し、チャットボット実装用のYAMLコードを自動生成するFigmaプラグインです。
@@ -24,7 +24,7 @@ Figmaのデザイン（レイヤー構造）を解析し、チャットボット
 * ワンクリック・コピー:
   生成されたコードをクリップボードに即座にコピーできます。
 
-## 🛠 使用技術 (Tech Stack)
+##  使用技術 (Tech Stack)
 
 * Language: TypeScript
 * Framework: React
